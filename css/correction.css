@@ -7,12 +7,13 @@ p{
 }
 
 .logo_la_panthere_redimensionnee{
+  width: 216.88px;
   height:40px;
 }
 
 .logo_redimmensionnee{
   width: 100px;
-  height:auto;
+  height:100px;
 }
 
 @media (max-width : 767px) {
